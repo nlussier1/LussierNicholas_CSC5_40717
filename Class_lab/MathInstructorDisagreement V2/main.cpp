@@ -20,7 +20,7 @@ using namespace std;
 //execution begins here
 int main(int argc, char** argv) {
     //Declare Variables
-    long int a, b, c;
+    float a, b, c;
     //prompt for a and b
     cout<<"Input 2 float values"<<endl;
     cin>>a;
